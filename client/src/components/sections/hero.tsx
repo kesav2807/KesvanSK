@@ -12,7 +12,7 @@ const portfolioData = {
     "UI/UX Enthusiast"
   ],
   subTitle: "Building digital experiences that inspire and transform ideas into reality",
-  resumeLink: "https://drive.google.com/file/d/1HP8qG_Awi58FPKzpl2qdyg7Ts5wyZD9e/view?usp=drive_link"
+  resumeLink: "https://drive.google.com/file/d/1KRjcVQYcLM0pB3u0ZVzeueRAEzblNlKl/view?usp=sharing"
 };
 
 export function Hero() {
