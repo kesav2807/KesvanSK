@@ -6,9 +6,8 @@ import { fadeInLeft, fadeInRight } from '@/lib/animations';
 const aboutData = {
   aboutDescription: [
     "Hello! I'm Kesavan, a proficient full-stack web developer based in Madurai, India.",
-    "Since my first coding venture, I've been captivated by the world of technology. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), React Native, and MongoDB, with a passion for creating seamless, scalable applications.",
-    "I'm currently focusing on developing apps that enhance user experiences, streamline business operations, and provide innovative solutions. I also have experience in mobile app development with React Native and enjoy combining design with development to create intuitive, user-friendly UIs.",
-    "If you're intrigued by my work and the projects I've been working on, feel free to explore them below or reach out for potential collaborations!"
+    "I build scalable web & mobile apps using MERN stack and React Native.",
+    "Passionate about clean UI, smooth UX, and real-world solutions. 🚀".
   ],
   skills: [
     { name: 'React', color: 'var(--portfolio-accent)' },
