@@ -223,9 +223,9 @@ export function About() {
                     ease: 'easeInOut',
                   }}
                 >
-                  2+
+                  1+
                 </motion.p>
-                <p className="text-sm text-[var(--portfolio-text-secondary)]">Years Experience</p>
+                <p className="text-sm text-[var(--portfolio-text-secondary)]">Years Experience(Fresher)</p>
               </div>
             </motion.div>
           </motion.div>
