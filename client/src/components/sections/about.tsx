@@ -7,7 +7,7 @@ const aboutData = {
   aboutDescription: [
     "Hello! I'm Kesavan, a proficient full-stack web developer based in Madurai, India.",
     "I build scalable web & mobile apps using MERN stack and React Native.",
-    "Passionate about clean UI, smooth UX, and real-world solutions. 🚀".
+    "Passionate about clean UI, smooth UX, and real-world solutions. 🚀"
   ],
   skills: [
     { name: 'React', color: 'var(--portfolio-accent)' },
