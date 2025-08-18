@@ -91,6 +91,21 @@ const projects = [
     ],
     githubLink: "",
     liveLink: "https://transportation-managementsystem-frontnend.onrender.com"
+  },
+    {
+    id: 7,
+    projectName: "SocialApp",
+    projectType: "MERN Stack",
+    description: "SocialApp is a secure, user-friendly MERN stack social media platform for sharing, chatting, and building real connections...",
+    projectImage: ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCtEaM_Pt_UhU-RoQV28zssIyH6DUg48bAA&s"],
+    techStack: [
+      { name: "React", image: "react" },
+      { name: "Node.js", image: "node" },
+      { name: "MongoDB", image: "mdb" },
+      { name: "Express", image: "express" }
+    ],
+    githubLink: "https://github.com/kesav2807/SocialMediaApplication",
+    liveLink: "https://socialmediaapplication-s66u.onrender.com"
   }
 ];
 
